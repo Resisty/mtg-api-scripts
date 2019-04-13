@@ -18,7 +18,9 @@ You need to:
 
 # Fine. What Do?
 
-`./cards-to-sets ${some_list_in_yaml_json_or_txt} [-n|--no-promos]`
+Check out the usage:
+
+`./cards-to-sets -h`
 
 ## What's that `-n` flag?
 
