@@ -22,10 +22,6 @@ Check out the usage:
 
 `./cards-to-sets -h`
 
-## What's that `-n` flag?
-
-Maybe you don't care about promo cards. If that's the case, set this flag.
-
 # Shitty Example
 
 ```
